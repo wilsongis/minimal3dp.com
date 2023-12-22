@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-tagline: All Things 3D Printing
+role: All Things 3D Printing
 
 # Organizations/Affiliations to show in About widget
 organizations:
