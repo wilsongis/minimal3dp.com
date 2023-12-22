@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+tagline: All Things 3D Printing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Minimal 3DP on YouTube
+    url: https://youtube.com/@minimal3dp?si=m-amBbUNKt9hylU8
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 3D Printing
+  - Klipper/Marlin
+  - DIY and Making
 
 # Education to show in About widget
 education:
