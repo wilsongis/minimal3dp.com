@@ -86,10 +86,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: 3D Printing
+          tag: 3D Printing
+        - name: Klipper
+          tag: Klipper
+		- name: Marlin
+		  tag: Marlin
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -110,13 +112,13 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
-      phone: 888 888 88 88
+      phone: 1 731 707 8739
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 308 Head St
+        city: Paris
+        region: TN
+        postcode: '37042'
         country: United States
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2

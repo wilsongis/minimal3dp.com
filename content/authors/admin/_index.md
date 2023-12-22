@@ -6,8 +6,8 @@ title: Mike Wilson
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mike
+last_name: Wilson
 
 # Status emoji
 status:
