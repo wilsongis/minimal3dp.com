@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Mike Wilson and I am a 3D printing enthusiast and maker. This site represents my various adventures in 3D printing. In many cases, the content I post is based on questions I have had as I work on my 3D printers.
 {style="text-align: justify;"}
